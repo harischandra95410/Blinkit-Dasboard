@@ -192,7 +192,7 @@ Add dashboard screenshots here:
 
 Assistant Professor | Data Analytics Enthusiast | Power BI Developer
 
-GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
+GitHub: [https://github.com/harischandra95410](https://github.com/harischandra95410)
 
 ---
 
